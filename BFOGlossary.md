@@ -2,7 +2,7 @@
 
 **English**|**Definition**|**Chinese Translation**|**Issue**|**Status**
 :-----:|:-----:|:-----:|:-----:|:-----:
-Adequatism|**|测试|[001]|Testing
+Adequatism|**|测试|[1]|Testing
 
 
 *******************
