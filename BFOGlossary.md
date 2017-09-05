@@ -6,7 +6,7 @@
 
 | Term                                             | 中文翻译          | Issue / Ref. | 状态 | Example                                                                                                                                                                                                                                                               |
 |--------------------------------------------------|-------------------|--------------|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Adequatism.                                      |                   | [Adequatism]<br>[OWL中文翻译] | 提案 | The goal of ontology as viewed by the proponent of adequatism is to do justice to the vast array <br> of different kinds of entities that exist in the world, rather than ignoring these or those  <br>specific kinds of entities or attempting to explain them away. |
+| Adequatism.                                      |                   |[Issue1]<br>[OWL中文翻译] | 提案 | The goal of ontology as viewed by the proponent of adequatism is to do justice to the vast array <br> of different kinds of entities that exist in the world, rather than ignoring these or those  <br>specific kinds of entities or attempting to explain them away. |
 | All-some structure.                              |                   |              |      |                                                                                                                                                                                                                                                                       |
 | Aristotelian definitional structure.             |                   |              |      |                                                                                                                                                                                                                                                                       |
 | Basic Formal Ontology (BFO).                     | 基本形式本体(BFO) |              |      |                                                                                                                                                                                                                                                                       |
@@ -101,11 +101,9 @@
 | Zero-dimensional temporal region.                | 0维时间区域       |              |      |                                                                                                                                                                                                                                                                       |
 
 *******************
---------------ISSUES----------------------
-[Adequatism]:https://github.com/biomedontology/TermChinesetranslation/issues/1
+[Issue1]:https://github.com/biomedontology/TermChinesetranslation/issues/1
 
 
 
---------------References--------------------
 [OWL中文翻译]:http://nkos.lib.szu.edu.cn/OWL2/OWL2PrimerSimplifiedChinese.htm
 
