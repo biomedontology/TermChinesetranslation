@@ -7,4 +7,4 @@ Participants:
 
 He, Yongqun (何勇群)：University of Michigan, Ann Arbor, MI, USA
 
-Zhu, Yan (朱彦)：Chinese Academy of Chinese Medical Sciences, Beijing, China
+Zhu, Yan (朱彦)：Institute of Information on Traditional Chinese Medicine (IITCM), China Academy of Chinese Medical Sciences(CACMS), Beijing, China
